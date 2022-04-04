@@ -1,0 +1,16 @@
+.envia{
+    width: 100%;
+    padding: 7px;
+    background-color: #ccc;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.4em;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(58, 58, 58);
+}
+
+.envia:hover{
+    background-color:rgb(58, 58, 58);
+    color: #ccc;
+}
